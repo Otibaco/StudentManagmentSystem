@@ -36,7 +36,6 @@ All operations are performed through **HTTP requests** handled by the backend RE
 - **Framework:** Spring Boot  
 - **Persistence:** Spring Data JPA (Hibernate)  
 - **Database:** PostgreSQL  
-- **Security:** (Optional future upgrade – JWT or Basic Auth)
 
 ---
 
