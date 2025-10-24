@@ -65,3 +65,8 @@ This project is developed to:
 3. Run the project using:
    ```bash
    mvn spring-boot:run
+
+
+   🧑‍🏫 Author
+Otibaco & Orji Franklin
+📘 Created for educational learning and demonstration.# StudentManagementApp-Backend
