@@ -67,6 +67,8 @@ This project is developed to:
    mvn spring-boot:run
 
 
-   🧑‍🏫 Author
+🧑‍🏫 Author
 Otibaco & Orji Franklin
+📘 Created for educational learning and demonstration.Otibaco & Orji Franklin
 📘 Created for educational learning and demonstration.# StudentManagementApp-Backend
+
